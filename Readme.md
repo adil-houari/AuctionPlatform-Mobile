@@ -38,3 +38,6 @@ Built as a complete mobile development exercise using modern Android development
 git clone https://github.com/<your-username>/<repo-name>.git
 
 # Build and run on emulator or physical device
+
+
+This app was developed as part of a mobile development assignment focused on creating a complete Android app that interacts with a RESTful auction API. All interactions from browsing items to placing bids are handled through the API with proper authentication and UX feedback.
