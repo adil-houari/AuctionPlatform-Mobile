@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">VeilingPlatform</string>
+    <string name="no_connection">Geen internetverbinding beschikbaar</string>
+
+    // ItemDetailScreen
+    <string name="item_details_title">Item Details</string>
+    <string name="verwijderen">Verwijderen</string>
+    <string name="plaats_bid">Plaats Bod</string>
+    <string name="terug_naar_items">Terug naar items</string>
+
+    //ItemListScreen
+    <string name="app_title">Veilingplatform</string>
+    <string name="apply_filter">Filter toepassen</string>
+    <string name="reset_filters">Filters resetten</string>
+    <string name="add_new_item">Voeg nieuw item toe</string>
+    <string name="add_new_item_disabled">Voeg nieuw item toe</string>
+    <string name="error_fetching_items">Er is een fout opgetreden bij het ophalen van de items.</string>
+    <string name="login_to_add_item">Je moet eerst inloggen om een item toe te voegen.</string>
+    <string name="max_price_label">Maximale prijs</string>
+    <string name="select_both_filters">Selecteer beide filters om te zoeken.</string>
+    <string name="select_category">Selecteer categorie</string>
+
+    //loginscreen
+    <string name="login_button">Inloggen</string>
+    <string name="logout_button">Uitloggen</string>
+    <string name="to_auctions_button">Naar veilingen</string>
+    <string name="username_hint">Gebruikersnaam</string>
+    <string name="password_hint">Wachtwoord</string>
+    <string name="unknown_error">Onbekende fout opgetreden</string>
+
+    //NetworkStatusChecker
+    <string name="no_internet_connection">Geen internetverbinding beschikbaar</string>
+    <string name="retry_button">Probeer opnieuw</string>
+    <string name="connection_error_content_description">Verbindingsfout</string>
+
+    //NewItemScreen
+    <string name="add_new_item_title">Voeg een nieuw item toe</string>
+    <string name="item_name_label">Naam van het item</string>
+    <string name="item_description_label">Beschrijving</string>
+    <string name="item_starting_price_label">Startprijs</string>
+    <string name="choose_category_label">Kies een categorie</string>
+    <string name="item_end_date_label">Einddatum</string>
+    <string name="end_date_automatic_set">Einddatum is automatisch ingesteld op: %1$s</string>
+    <string name="add_item_button">Voeg toe</string>
+    <string name="back_to_item_list">Terug naar itemlijst</string>
+    <string name="calendar_icon_content_desc">Kalender</string>
+    <string name="dropdown_icon_content_desc">Drop-Down</string>
+    <string name="invalid_end_date_message">Ongeldige einddatum</string>
+
+</resources>
